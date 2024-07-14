@@ -129,8 +129,6 @@ public class tutorial2 extends OpMode {
             motor4fl.setPower(0.5);
             motor4fl.setDirection(DcMotorSimple.Direction.FORWARD);
         }
-
-
         motor1bl.setPower(0);
         motor2br.setPower(0);
         motor3fr.setPower(0);
